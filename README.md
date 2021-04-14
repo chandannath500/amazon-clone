@@ -8,3 +8,5 @@ Technologies Used - React, Material UI, Stripe</h1>
 <img src="https://i.ibb.co/swfXBZp/2.png" alt="2" border="0">
 <h2>PAYMENT PAGE</h2>
 <img src="https://i.ibb.co/5c1bp1Q/3.png" alt="3" border="0">
+<h1>APP LINK</h1>
+https://amazon-clone-side-project.netlify.app/
